@@ -9,19 +9,15 @@ L'ensemble de données utilisé provient de [Kaggle](https://www.kaggle.com/askh
 
 Objectifs :
 
--Prédire si un étudiant réussira ou non l'examen final en fonction de certaines informations fournies. /n
--Comparez les quatres algorithmes d'apprentissages.
--Découvrez ce qui affecte le plus la réussite des élèves.
--Trouvez le meilleur algorithme avec une grande précision.
+* Prédire si un étudiant réussira ou non l'examen final en fonction de certaines informations fournies.
+* Comparez les quatres algorithmes d'apprentissages.
+* Découvrez ce qui affecte le plus la réussite des élèves.
+* Trouvez le meilleur algorithme avec une grande précision.
 
 Modeles Machine Learning:
 
--RandomForestClassifier
-
--SVM(SVC)
-
--Arbre de décision
-
--LogisticRegression
-
--Deep Learning (Sequential)
+* RandomForestClassifier
+* SVM(SVC)
+* Arbre de décision
+* LogisticRegression
+* Deep Learning (Sequential)
