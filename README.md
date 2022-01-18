@@ -7,15 +7,24 @@ La page utilise la bibliothèque D3.js avec les bibliothèques DC.js et crossfil
 Ce projet consiste à utiliser des algorithmes machine learning pour prédire si un étudiant réussira ou non l'examen final. 
 L'ensemble de données utilisé provient de [Kaggle](https://www.kaggle.com/askhanna/student-dataset-with-graduation-details).
 
-Objectifs : 
--Prédire si un étudiant réussira ou non l'examen final en fonction de certaines informations fournies
--Comparez les trois algorithmes d'apprentissage
--Découvrez ce qui affecte le plus la réussite des élèves
--Trouvez le meilleur algorithme avec une grande précision
+Objectifs :
+
+-Prédire si un étudiant réussira ou non l'examen final en fonction de certaines informations fournies.
+
+-Comparez les quatres algorithmes d'apprentissages.
+
+-Découvrez ce qui affecte le plus la réussite des élèves.
+
+-Trouvez le meilleur algorithme avec une grande précision.
 
 Modeles Machine Learning:
+
 -RandomForestClassifier
+
 -SVM(SVC)
+
 -Arbre de décision
+
 -LogisticRegression
+
 -Deep Learning (Sequential)
